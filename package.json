@@ -1,0 +1,25 @@
+{
+  "name": "personal-website-2",
+  "version": "2.0.0",
+  "description": "This is the second edition of my personal website, riccardo.cc.",
+  "main": "index.js",
+  "dependencies": {
+    "animateplus": "^2.1.1",
+    "node-sass": "^4.11.0",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rain-light/personal-website-2.git"
+  },
+  "author": "Riccardo Battiato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rain-light/personal-website-2/issues"
+  },
+  "homepage": "https://github.com/rain-light/personal-website-2#readme"
+}
